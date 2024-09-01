@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipetonietto&label=Profile%20views&color=0e75b6&style=flat" alt="felipetonietto" /> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **vue and react**
 
 - 📫 How to reach me **musspel@gmail.com**
 
